@@ -11,7 +11,7 @@
 
 ### Roadmap  
 - ~~Locale System for Interface~~ - Added in 1.0.6
-- 
+
 ### Additional Information
 - **Framework Compatibility**: ESX, QB/Qbox, OX, ND, Custom & Standalone
 - **Dependencies**: None  
