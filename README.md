@@ -10,9 +10,8 @@
 - Includes built-in, lightweight & efficient seatbelt logic for immersion
 
 ### Roadmap  
-- Locale System for Interface
-- Revamped settings panel with extensive features.  
-
+- ~~Locale System for Interface~~ - Added in 1.0.6
+- 
 ### Additional Information
 - **Framework Compatibility**: ESX, QB/Qbox, OX, ND, Custom & Standalone
 - **Dependencies**: None  
